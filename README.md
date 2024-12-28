@@ -1,4 +1,4 @@
-![logo](https://0.gravatar.com/userimage/260067390/e7a30c7a02dd11977797ce81e1f75719?size=500)
+![logo](https://0.gravatar.com/userimage/260067390/e7a30c7a02dd11977797ce81e1f75719?size=1024x50)
 ## Hey 👋, I'm Zain Ashraf!  
   
 
