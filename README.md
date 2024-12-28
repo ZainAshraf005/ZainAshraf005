@@ -29,23 +29,21 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Python and Linux.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I use tabs over spaces.   
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fwelcome%2F&psig=AOvVaw0YskPXdfTFcns8PMTuEXif&ust=1735464433472000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD8pYCTyooDFQAAAAAdAAAAABAE)" align="center" style="width: 100%" />
 </div>  
 
 
