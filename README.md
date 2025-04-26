@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:  Geneva, Verdana, sans-serif;">
+<h1 align="center" style="font-family: Bebas Neue;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zain+Ashraf;Software+Engineer;Backend+Enthusiast" alt="Typing SVG" width="80%" />
 </h1>
 
