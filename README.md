@@ -1,114 +1,128 @@
-![logo](https://raw.githubusercontent.com/ZainAshraf005/ZainAshraf005/refs/heads/main/github.png)
-## Hey 👋, I'm Zain Ashraf!  
-  
+---
 
-<a href="https://github.com/ZainAshraf005" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ZainAshraf005" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ZainAshraf005" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ZainAshraf005" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<!-- SUPER-COOL README START -->
 
+<h1 align="center" style="font-family:  Geneva, Verdana, sans-serif;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zain+Ashraf;Software+Engineer;Backend+Enthusiast" alt="Typing SVG" width="80%" />
+</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZainAshraf005/ZainAshraf005/refs/heads/main/github.png" alt="Profile Banner" width="100%" style="border-radius: 20px;"/>
+</p>
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers and optimization.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-  
-
-- 🌱 I’m currently learning Python and Linux.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces.   
-
-
-</td><td valign="top" width="50%">
+---
 
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fwelcome%2F&psig=AOvVaw0YskPXdfTFcns8PMTuEXif&ust=1735464433472000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD8pYCTyooDFQAAAAAdAAAAABAE)" align="center" style="width: 100%" />
-</div>  
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/My%20Website-FF4F00?style=for-the-badge&logo=Google-Chrome&logoColor=white&color=FF4F00"/>
+  </a>
+  <a href="https://linkedin.com/in/zainashraf005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/ZainAshraf005">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:jzain7345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
+---
 
-</td></tr></table>  
+## 🚀 About Me
 
-<br/>  
+```yaml
+name: Zain Ashraf
+title: Backend Developer & Cloud Enthusiast
+experience: 3+ years in Backend Engineering
+currently_learning: Business Development & Advanced Cloud Solutions
+passion: Building Scalable, Robust Systems
+collaboration: Open to Backend-heavy Projects & Cloud Infrastructure Work
+fun_fact: Tabs > Spaces
+```
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-</div>  
+## 🛠️ Tech Stack
 
-<br/>  
+<div align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 🌐 GitHub Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZainAshraf005&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZainAshraf005&show_icons=true&theme=radical&border_radius=10" width="70%" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainAshraf005&theme=radical&border_radius=10" width="70%" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAshraf005&layout=compact&theme=radical&border_radius=10" width="70%" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" />
+</div>
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAshraf005&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## 🏆 GitHub Trophies
 
-</td></tr></table>  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZainAshraf005&theme=dracula&margin-w=10&column=7&no-frame=true&no-bg=true" width="80%" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" />
+</div>
 
-<br/>  
+---
 
-  
+## 📌 Pinned Repositories
 
-<br/>  
+<div align="center">
+  <a href="https://github.com/ZainAshraf005/cartzeno">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZainAshraf005&repo=cartzeno&theme=radical&border_radius=10" width="400px" />
+  </a>
+  <a href="https://github.com/ZainAshraf005/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZainAshraf005&repo=portfolio&theme=radical&border_radius=10" width="400px" />
+  </a>
+</div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ZainAshraf005&&style=flat-square)  
-  
+---
 
-<br/>  
+## 🔥 Recent Activity
 
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/ZainAshraf005/project/pull/123) in [ZainAshraf005/project](https://github.com/ZainAshraf005/project)
+2. 💪 Opened PR [#456](https://github.com/organization/project/pull/456) in [organization/project](https://github.com/organization/project)
+3. 🗣 Commented on [#789](https://github.com/other-org/other-project/issues/789) in [other-org/other-project](https://github.com/other-org/other-project)
+<!--END_SECTION:activity-->
 
-<br />
+---
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built X Using Y](https://yourwebsite.com/how-i-built-x)
+- [Best Practices for Z](https://yourwebsite.com/best-practices-for-z)
+- [Understanding A in the Context of B](https://yourwebsite.com/understanding-a)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZainAshraf005&style=for-the-badge&color=00FFAA&label=Profile+Views&logo=github" alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ZainAshraf005">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Fira Code', monospace; color: #00FFAA;">Thanks for checking out my profile! 🚀</h2>
+
+---
