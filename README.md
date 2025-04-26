@@ -1,15 +1,12 @@
----
-
-
 <h1 align="center" style="font-family:  Geneva, Verdana, sans-serif;">
-<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zain+Ashraf;Software+Engineer;Backend+Enthusiast" alt="Typing SVG" width="80%" />
-</h1> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zain+Ashraf;Software+Engineer;Backend+Enthusiast" alt="Typing SVG" width="80%" />
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZainAshraf005/ZainAshraf005/refs/heads/main/github.png" alt="Profile Banner" width="100%" style="border-radius: 20px;"/>
 </p>
 
----
+
 
 <div align="center">
   <a href="https://yourwebsite.com">
