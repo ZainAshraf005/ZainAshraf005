@@ -53,16 +53,16 @@ I work across **web development (MERN Stack, Next.js)**, **Python automation**, 
 ---
 
 ## 📈 GitHub Stats  
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainashrafdev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainashrafdev&layout=compact&theme=tokyonight)  
+![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainashraf005&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainashraf005&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌎 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zainashrafdev)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainashraf005)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://zainashraf.vercel.dev)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zainashraf005)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jzain7345@gmail.com)  
 
 ---
 
