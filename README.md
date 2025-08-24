@@ -52,18 +52,21 @@ I work across **web development (MERN Stack, Next.js)**, **Python automation**, 
 
 ---
 
-## 📈 GitHub Stats  
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainashraf005&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainashraf005&layout=compact&theme=tokyonight)  
 
----
+|Stats |Streak |Languages |
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zainashraf005&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=zainashraf005&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainashraf005&theme=gruvbox)|
+
+ 
 
 ## 🌎 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainashraf005)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://zainashraf.vercel.dev)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zainashraf005)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jzain7345@gmail.com)  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainashraf005) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://zainashraf.vercel.dev) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zainashraf005) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jzain7345@gmail.com) &nbsp;
+
+<br/>
+
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
