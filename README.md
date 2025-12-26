@@ -1,8 +1,8 @@
-# 💻 M. Zain Ashraf — Software Engineer | AI & Automation Enthusiast  
+# 💻 M. Zain Ashraf — Software Engineer  
 
 Hey there! 👋  
 I’m **M. Zain Ashraf**, a passionate **Software Engineer** skilled in building **scalable, production-ready applications**.  
-I work across **web development (MERN Stack, Next.js)**, **Python automation**, and **AI/ML** to create smart, efficient, and impactful solutions.  
+I work across **web development (MERN Stack, Next.js)** to create smart, efficient, and impactful solutions.  
 
 🚀 Always learning. Always building. Always shipping.  
 
@@ -12,7 +12,6 @@ I work across **web development (MERN Stack, Next.js)**, **Python automation**, 
 
 ### 💻 Languages & Core
 - JavaScript (ES6+), TypeScript  
-- Python (OOP, Automation, AI/ML)  
 - C++, SQL  
 
 ### 🌐 Web Development
@@ -22,7 +21,6 @@ I work across **web development (MERN Stack, Next.js)**, **Python automation**, 
 
 ### ⚙️ Backend & APIs
 - Node.js, Express.js  
-- FastAPI (Python)  
 - RESTful APIs, WebSockets, OAuth, JWT  
 - Passport.js, Auth.js  
 
@@ -30,34 +28,25 @@ I work across **web development (MERN Stack, Next.js)**, **Python automation**, 
 - MongoDB, PostgreSQL, MySQL  
 - Mongoose, Drizzle ORM  
 
-### ☁️ DevOps & Tools
-- Docker (learning & implementing)  
-- AWS, Azure (basic deployment & monitoring)  
-- ImageKit, Cloudinary  
+### ☁️ Tools
 - Git, GitHub, Linux (Ubuntu LTS)  
-
-### 🤖 AI, Automation & Data
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Web Scraping (BeautifulSoup, Requests, Selenium)  
-- Data Visualization & Analysis  
+- ImageKit, Cloudinary  
 
 ---
 
 ## 📌 Highlight Projects
+- **🔹 VINC RMS (Live Product at SAKAI Technologies)** — Feature development, production environment  
+- **🔹 AI-Powered Workflow Managment System** — FastAPI + NextJs + Google OAuth + LLM Integration
 - **🔹 AI-Powered Chat App** — MERN + WebSockets + Google OAuth + real-time messaging  
-- **🔹 Resume Analyzer** — MERN + AI/NLP model integration  
-- **🔹 Custom Text Editor** — Google Docs–like editor without external packages  
-- **🔹 Python Automation Scripts** — Scrapers, bots, and workflow automation tools  
 - **🔹 Todo App** — FastAPI + PyMongo backend  
 
 ---
-
 
 |Stats |Streak |Languages |
 |---|---|---|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zainashraf005&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=zainashraf005&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainashraf005&theme=gruvbox)|
 
- 
+---
 
 ## 🌎 Connect With Me  
 
