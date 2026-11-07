@@ -1,124 +1,114 @@
-# 💻 M. Zain Ashraf — Software Engineer
+# Hi, I'm Zain Ashraf 👋
 
-Hey! I'm **M. Zain Ashraf**, a Software Engineer focused on building **scalable, production-ready web applications**.
+### Software Engineer | Full Stack Development | AI Integrations
 
-I work across the stack with a focus on **React, Next.js, FastAPI, PostgreSQL, AI integrations, and cloud deployment**. I enjoy turning real-world requirements into reliable software and solving problems across development, databases, and production infrastructure.
+I build web applications, backend services, and AI-powered solutions with a focus on clean architecture, reliability, and real-world problem solving.
 
----
+Currently working on production software while expanding my expertise in **Python, FastAPI, PostgreSQL, and AI engineering**.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-* JavaScript / TypeScript
-* Python
-* SQL
-* C++
-
-### 🌐 Frontend
-
-* React.js
-* Next.js
-* TypeScript
-* Tailwind CSS
-* TanStack Query
-* Zustand
-
-### ⚙️ Backend & APIs
-
-* FastAPI
-* Node.js
-* Express.js
-* REST APIs
-* WebSockets
-* JWT / OAuth
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* SQLAlchemy
-* Mongoose
-* Alembic
-
-### 🤖 AI & Integrations
-
-* LLM APIs
-* AI-powered application features
-* Embeddings & vector search
-* Google Gemini
-* AI workflow integrations
-
-### ☁️ Cloud & DevOps
-
-* Docker
-* Git & GitHub
-* Linux
-* AWS
-* Cloudflare
-* CI/CD
-* Production deployments
+- 💻 Building production-grade web applications and backend systems
+- 🤖 Integrating LLMs, embeddings, and AI workflows into applications
+- ⚙️ Working across frontend, backend, databases, and cloud infrastructure
+- 🌱 Currently deepening my knowledge of backend engineering and AI integrations
+- 🎯 Interested in building software that solves actual business problems
 
 ---
 
-## 🚀 What I Build
+### 🧰 Tech Stack
 
-* Production web applications
-* REST APIs and backend services
-* AI-powered applications and workflows
-* Database-driven systems
-* Authentication and authorization systems
-* Real-time applications
-* Cloud deployments and production infrastructure
+**Languages**
+
+`JavaScript` `TypeScript` `Python` `SQL` `C++`
+
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS` `TanStack Query` `Zustand`
+
+**Backend**
+
+`FastAPI` `Node.js` `Express.js` `REST APIs` `WebSockets`
+
+**Databases & ORMs**
+
+`PostgreSQL` `MongoDB` `MySQL` `SQLAlchemy` `Alembic` `Mongoose`
+
+**AI & Machine Learning Integrations**
+
+`LLM APIs` `Google Gemini` `LangChain` `Embeddings` `Vector Search` `RAG`
+
+**DevOps & Infrastructure**
+
+`Docker` `Linux` `AWS` `Cloudflare` `Git` `GitHub` `CI/CD`
 
 ---
 
-## 📌 Featured Projects
+### 🚀 Featured Projects
 
-### 🔹 VINC RMS — Production Restaurant Management System
+#### 🏢 VINC RMS — Restaurant Management System
+**React · Next.js · PostgreSQL · Production Infrastructure**
 
-**React · Next.js · PostgreSQL · Production Environment**
+Contributing to a production restaurant management platform used by multiple restaurant businesses.
 
-Working on a production restaurant management platform at **SAKAI Technologies**, contributing to feature development, bug fixing, database-related tasks, deployments, and production troubleshooting.
+- Developing and maintaining production features.
+- Working across frontend and backend-related functionality.
+- Troubleshooting production issues and deployments.
+- Contributing to database-driven business workflows.
 
-### 🔹 HRx — AI-Powered Recruitment & HRMS
+#### 🤖 HRx — AI-Powered Recruitment Platform
+**FastAPI · Next.js · PostgreSQL · Gemini · pgvector**
 
-**FastAPI · Next.js · PostgreSQL · Gemini · Vector Search**
+An AI-powered recruitment and HR management platform built as my Final Year Project.
 
-AI-powered recruitment and HR management platform featuring resume parsing, candidate-role matching, AI-assisted job creation, interviews, employee management, attendance, leave management, and reporting.
+- AI-powered resume parsing and candidate ranking.
+- Semantic search and candidate-job matching using vector embeddings.
+- AI-assisted job creation and recruitment workflows.
+- Recruitment chatbot and automated reporting.
+- Organization management and role-based access control.
 
-### 🔹 AI-Powered Chat Application
-
+#### 💬 AI-Powered Real-Time Chat Application
 **MERN · WebSockets · Google OAuth**
 
-Real-time chat application with authentication, WebSocket-based messaging, and AI-powered functionality.
+A real-time messaging application featuring authentication, WebSocket-based communication, and AI-powered functionality.
 
-### 🔹 FastAPI Applications
+#### ⚡ FastAPI Backend Projects
+**Python · FastAPI · PostgreSQL · SQLAlchemy**
 
-**FastAPI · PostgreSQL · Python**
-
-Backend applications focused on REST APIs, database operations, authentication, and production-oriented backend architecture.
-
----
-
-## 📊 GitHub Stats
-
-| Stats                                                                                                      | Streak                                                                                                                                                                                             | Languages                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zainashraf005\&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=zainashraf005\&theme=gruvbox\&hide_border=true\&border_radius=32\&date_format=j%20M%5B%20Y%5D\&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainashraf005\&theme=gruvbox) |
+Backend applications exploring REST API development, authentication, database management, and backend architecture.
 
 ---
 
-## 🌎 Connect With Me
+### 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zainashraf005)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox\&logoColor=white)](https://zainashraf.vercel.dev)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/zainashraf005)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jzain7345@gmail.com)
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zainashraf005&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainashraf005&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zainashraf005&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-### Currently Focused On
+### 🤝 Let's Connect
 
-**Backend Engineering · AI Integrations · PostgreSQL · Cloud & Deployment**
+<p align="left">
+  <a href="https://www.linkedin.com/in/zainashraf005">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://zainashraf.vercel.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/zainashraf005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:zainashraf.eng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and shipping software — one problem at a time.</i>
+</p>
